@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/CusomeComponents/users-list/users-list.component.css"],
+  "sourcesContent": [".user-list {\r\n    display: grid;\r\n    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));\r\n    gap: 20px;\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAC;AACG,WAAS;AACT,yBAAuB,OAAO,QAAQ,EAAE,OAAO,KAAK,EAAE;AACtD,OAAK;AACL,WAAS;AACT,UAAQ;AACZ;",
+  "names": []
+}
